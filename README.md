@@ -23,3 +23,15 @@
 - SQL
 - Quick DBD
 - CSV files: departments, dept_emp, dept_manager, employees, salaries, and titles 
+
+# Output/Analyses
+
+# Part One: Data Modeling
+
+# Part Two: Data Engineering
+
+# Part Three: Data Analysis
+
+
+# Author 
+-Brittany Wright github:brittanynicole7
