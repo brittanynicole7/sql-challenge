@@ -26,11 +26,11 @@
 
 # Output/Analyses
 
-# Part One: Data Modeling
+## Part One: Data Modeling
 
-# Part Two: Data Engineering
+## Part Two: Data Engineering
 
-# Part Three: Data Analysis
+## Part Three: Data Analysis
 
 
 # Author 
