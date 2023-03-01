@@ -20,6 +20,6 @@
 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 # Software and Files
-- SQL\
-- Quick DBD\
+- SQL
+- Quick DBD
 - CSV files: departments, dept_emp, dept_manager, employees, salaries, and titles 
