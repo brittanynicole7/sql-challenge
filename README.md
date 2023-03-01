@@ -1,1 +1,3 @@
-# sql-challenge
+# SQL Challenge
+
+# Project Description 
