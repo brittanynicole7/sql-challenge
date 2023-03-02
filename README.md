@@ -6,7 +6,7 @@
 - Create an Entity Relationship Diagram of the csv files using Quick DBD. 
 
 ## Part Two: Data Engineering
-- Define columns, set the correct data types for each columns, set Primary Keys, set NOT NULL for columns as needed, and define column length to include all characters. 
+- Define columns, set the correct data types for each column, set Primary Keys, set NOT NULL for columns as needed, and define column length to include all characters. 
 - Import the CSV files into SQL.
 
 ## Part Three: Data Analysis
