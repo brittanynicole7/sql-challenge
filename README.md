@@ -27,7 +27,7 @@
 # Output/Analyses
 
 ## Part One: Data Modeling
--Created an Entity Relationship Diagram (ERD) using QuickDBD
+- Created an Entity Relationship Diagram (ERD) using QuickDBD
 ![QuickDBD-export](https://user-images.githubusercontent.com/119909433/222546287-8858934a-dbd5-4b77-b060-5064e1f13d59.png)
 
 ## Part Two: Data Engineering
