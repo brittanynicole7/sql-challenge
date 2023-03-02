@@ -29,6 +29,7 @@
 ## Part One: Data Modeling
 - Created an Entity Relationship Diagram (ERD) using QuickDBD
 ![QuickDBD-export](https://user-images.githubusercontent.com/119909433/222546287-8858934a-dbd5-4b77-b060-5064e1f13d59.png)
+<img width="983" alt="Screenshot 2023-03-02 at 2 54 50 PM" src="https://user-images.githubusercontent.com/119909433/222550055-5da31a41-aca4-4ebe-8a09-42b50e549eaf.png">
 
 ## Part Two: Data Engineering
 - Defined columns for each table, set them to the correct data types, identified primary keys, related other tables using foreign keys, used NOT NULL conditions for certain variables, and defined the lengths of string columns. 
